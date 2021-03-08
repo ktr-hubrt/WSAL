@@ -4,7 +4,7 @@ The codes will coming soon.
 
 
 # Traffic 
-![image](./examples.png)
+![image](./traffic_examples.png)
 
 A new traffic anomaly dataset is now public available, which is uploaded on [Google Drive](https://drive.google.com/open?id=1cofMJGglil4vddrq_unuy7EEhthMYtuq) and [Baidu Cloud]().
 

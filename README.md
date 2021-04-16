@@ -18,3 +18,18 @@ Run python Train.py
 
 # Testing
 Run python Test.py
+
+If you find this work helpful, please cite:
+```
+@inproceedings{wsal_tip21,
+  author    = {Hui Lv and
+	             Chuanwei Zhou and
+               Zhen Cui and
+               Chunyan Xu and
+               Yong Li and
+               Jian Yang},
+  title     = {Localizing Anomalies from Weakly-Labeled Videos},
+  booktitle = {The IEEE Transactions on Image Processing (TIP)},
+  year      = {2021}
+}
+```

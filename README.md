@@ -21,7 +21,7 @@ Run: python Test.py
 
 If you find this work helpful, please cite:
 ```
-@inproceedings{wsal_tip21,
+@article{wsal_tip21,
   author    = {Hui Lv and
 	       Chuanwei Zhou and
                Zhen Cui and

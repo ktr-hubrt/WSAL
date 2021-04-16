@@ -14,16 +14,16 @@ Due to the storage restriction, we have uploaded the extracted frames(frames_par
 Please download the UCF-Crime dataset first and extract the pre-trained feature following [GCN-Anomaly-Detection] (https://github.com/jx-zhong-for-academic-purpose/GCN-Anomaly-Detection). Then re-organize the data into hdf5 format.
 
 # Training
-Run python Train.py
+Run: python Train.py
 
 # Testing
-Run python Test.py
+Run: python Test.py
 
 If you find this work helpful, please cite:
 ```
 @inproceedings{wsal_tip21,
   author    = {Hui Lv and
-	             Chuanwei Zhou and
+	       Chuanwei Zhou and
                Zhen Cui and
                Chunyan Xu and
                Yong Li and
